@@ -1,6 +1,7 @@
 .. image:: https://github.com/PyCQA/bandit/blob/master/logo/logotype-sm.png
     :alt: Bandit
 
+[![DepShield Badge](https://depshield.sonatype.org/badges/sealmindset/bandit-1/depshield.svg)](https://depshield.github.io)
 ======
 
 .. image:: https://travis-ci.org/PyCQA/bandit.svg?branch=master
