@@ -26,7 +26,11 @@
 .. image:: https://img.shields.io/badge/license-Apache%202-blue.svg
     :target: https://github.com/PyCQA/bandit/blob/master/LICENSE
     :alt: License
-
+    
+.. image:: https://depshield.sonatype.org/badges/sealmindset/bandit-1/depshield.svg
+    :target: https://github.com/sealmindset/bandit-1/
+    :alt: DepShield
+    
 A security linter from PyCQA
 
 * Free software: Apache license
